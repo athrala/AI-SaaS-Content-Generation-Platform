@@ -8,7 +8,7 @@ export const UserAvatar = () => {
       <AvatarImage src={user?.profileImageUrl} />
       <AvatarFallback>
         {user?.firstName?.charAt(0)}
-        {user?.lastname?.charAt(0)}
+        {user?.lastName?.charAt(0)}
       </AvatarFallback>
     </Avatar>
   );
