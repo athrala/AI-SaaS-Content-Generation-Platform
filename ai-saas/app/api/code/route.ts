@@ -1,6 +1,6 @@
 import { auth } from "@clerk/nextjs";
 import { NextResponse } from "next/server";
-import { Configuration, OpenAIApi, CharCompletionRequestMessage } from "openai";
+import { Configuration, OpenAIApi, ChatCompletionRequestMessage } from "openai";
 
 import { checkSubscription } from "@/lib/subscription";
 import { incrementApiLimit, checkApiLimit } from "@/lib/api-limit";
