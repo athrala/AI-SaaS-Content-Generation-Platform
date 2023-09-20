@@ -32,7 +32,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ai-saas.git](https://github.com/athrala/AI-SaaS-Content-Generation-Platform.git
+git clone https://github.com/athrala/AI-SaaS-Content-Generation-Platform.git
 ```
 
 ### Install packages
